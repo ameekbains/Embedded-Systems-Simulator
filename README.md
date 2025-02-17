@@ -36,4 +36,4 @@ A lightweight Python-based simulator for testing embedded algorithms in a virtua
 
 1. **Clone the repository**:
    ```bash
-   git clone
+   git clone https://github.com/ameekbains/Embedded-Systems-Simulator/blob/main/python%20embedded_simulator.py
